@@ -9,3 +9,7 @@ release.properties
 *.iml
 
 rebel.xml
+bin/
+.project
+.classpath
+.settings/
